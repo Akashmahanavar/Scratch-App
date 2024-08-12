@@ -11,7 +11,7 @@ import MoveYposition from "./motions/MoveYposition";
 import SayHello from "./looks/SayHello";
 import SayHelloWithTimer from "./looks/SayHelloWithTimer";
 import SetThink from "./looks/SetThink";
-import SetThinkWithTimer from "./looks/setThinkWithTimer";
+import SetThinkWithTimer from "./looks/SetThinkWithTimer";
 import ImageVisibility from "./looks/ImageVisibility";
 
 export default function Sidebar({
